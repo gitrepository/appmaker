@@ -9,4 +9,4 @@ RTB01: Init github.meanapp
 
 
 RTB02: Apply Bootstrap CSS
-#04 Apply bootstrap changes to main page
+#04 Apply bootstrap changes to home page
