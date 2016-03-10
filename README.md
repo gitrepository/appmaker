@@ -8,3 +8,5 @@ RTB01: Init github.meanapp
 #03 Copy all the contents, except .git folder, of meanapp into appmaker.
 
 
+RTB02: Apply Bootstrap CSS
+#04 Apply bootstrap changes to main page
