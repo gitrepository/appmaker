@@ -13,6 +13,8 @@ RTB02: Apply Bootstrap CSS
 
 
 RTB03: Apply Angular
-#05 Apply angular ng-repeat to render the main page
+#05 Bower components missing then: (1)bower cache clear (2)bower install
+#06 Apply angular ng-repeat to render the main page
+
 
 
